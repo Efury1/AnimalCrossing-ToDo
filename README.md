@@ -15,6 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Tasks
 
 - [ ] Play animal crossing music
+- [ ] Have done button
 - [ ] Change character image daily
 - [ ] Deploy to netify
 
