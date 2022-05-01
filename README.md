@@ -1,7 +1,6 @@
 # Animal Crossing To Do List (Day 1)
 
-<a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
-### Day 1 - 2 of 100 Days of Code
+<a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a> ### Day 1 - 2 of 100 Days of Code
 
 ## Project Setup
 ### `npm start`
