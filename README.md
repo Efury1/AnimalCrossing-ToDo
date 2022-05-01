@@ -1,5 +1,6 @@
-# Animal Crossing To Do List
+# Animal Crossing To Do List (Day 1)
 
+### Day 1 - 2 of 100 Days of Code
 
 ## Project Setup
 ### `npm start`
